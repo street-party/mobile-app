@@ -66,5 +66,6 @@ build/
 ios/.generated/
 packages
 pubspec.lock
+Podfile.lock
 .flutter-plugins
 .dart

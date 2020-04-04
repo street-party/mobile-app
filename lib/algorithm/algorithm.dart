@@ -1,0 +1,7 @@
+class Algorithm {
+  
+  void isThereSomeone(){
+
+  }
+
+}
